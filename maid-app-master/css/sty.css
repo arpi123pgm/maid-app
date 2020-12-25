@@ -1,0 +1,107 @@
+body{
+  overflow-x: hidden;
+}
+
+
+.poster{
+  background-image: url('https://www.bookmybai.com/images/home-bg.jpg');
+  width: 100%;
+  height: 80%;
+}
+.card-container{
+  text-align: -webkit-center;
+}
+.poster-card{
+  margin-top: 100px !important;
+}
+.container1
+{
+    border-radius: 10px;
+    margin: 40px;
+    padding: 20px;
+    width:400px;
+    background-color: white;
+    text-align: center;
+}
+
+.container2
+{
+    display: inline-block;
+    width: 31%;
+    text-align: center;
+    margin: 10px 1% 10px 10px;
+    vertical-align: top;
+    line-height: 30px;
+}
+.services
+{
+
+    width: 23%;
+    margin-left: 10px;
+    height:233px;
+}
+
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+
+}
+td
+{
+padding: 11px 11px;
+text-align: justify;
+}
+.using
+{
+
+    width:31.33%
+}
+.using img{
+    width: 50px;
+    height: 50px;
+}
+.services1 img
+{
+    width: 120px;
+    height: 120px;
+}
+.services1{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.services img{
+    width: 170px;
+    height: 201px;
+}
+.services3 img{
+    width: 100px;
+    height: 100px;
+
+}
+.services3
+{
+
+    width: 23%;
+}
+
+.part1{
+    display: flex;
+}
+.part2{
+    display: flex;
+}
+.safety{
+    display: flex;
+    justify-content: center;
+}
+.carousel-item{
+    height: 200px;
+    background-color:rgb(245, 188, 102);
+}
+.region{
+    justify-content: center;
+}
